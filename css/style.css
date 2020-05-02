@@ -61,7 +61,7 @@ a:hover{
     z-index: 200;
 }
 .chang-color .colors{
-    transform: translateX(-140px);
+    transform: translateX(-300px);
 }
 .chang-color:hover .colors{
     transform: translateX(0px);
@@ -126,14 +126,14 @@ a:hover{
 }
 
 
-@media(min-width:1024px){
+
     .navbar .nav-link{
-        color: #fff !important;
+        color: #111 ;
     }
     .navbar.scrolled .nav-link{
         color: #111 !important;
     }
-}
+
 @media(max-width:768px){
     .navbar .navbar-collapse{
         background-color: #fff;
