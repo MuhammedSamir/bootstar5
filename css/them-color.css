@@ -1,0 +1,143 @@
+/*strat them colors*/
+/*strat mediumpurple*/ 
+[data-default-color="mediumpurple"] .mediumpurple-color{
+    color: mediumpurple !important;
+ }
+ [data-default-color="mediumpurple"] .mediumpurple-border{
+     border: 1px solid mediumpurple !important;
+  }
+  [data-default-color="mediumpurple"] .mediumpurple-bg-color-over{
+     background-color: rgba(147, 112, 216, .6) !important;
+    
+  }
+ [data-default-color="mediumpurple"] .mediumpurple-border-bottom{
+     border-bottom: 1px solid mediumpurple !important;
+  }
+ 
+ [data-default-color="mediumpurple"] .mediumpurple-bg-color{
+     background-color: mediumpurple !important;
+  }
+ [data-default-color="mediumpurple"] .mediumpurple-bg-stork{
+     stroke: mediumpurple !important;
+  }
+ /*end mediumpurple*/ 
+ /*strat mediumpurple*/ 
+ [data-default-color="deeppink"] .deeppink-color{
+     color: deeppink !important;
+  }
+  [data-default-color="deeppink"] .deeppink-border{
+      border: 1px solid deeppink !important;
+   }
+   
+  [data-default-color="deeppink"] .deeppink-border-bottom{
+      border-bottom: 1px solid deeppink !important;
+   }
+  
+  [data-default-color="deeppink"] .deeppink-bg-color{
+      background-color: deeppink !important;
+   }
+   [data-default-color="deeppink"] .deeppink-bg-color-over{
+     background-color: rgba(255, 20, 147, .8) !important;
+    
+  }
+   
+  [data-default-color="deeppink"] .deeppink-bg-stork{
+      stroke: deeppink !important;
+   }
+  /*end deeppink*/ 
+  /*strat deepskyblue*/ 
+ [data-default-color="deepskyblue"] .deepskyblue{
+     color: deepskyblue !important;
+  }
+  [data-default-color="deepskyblue"] .deepskyblue-border{
+      border: 1px solid deepskyblue !important;
+   }
+  [data-default-color="deepskyblue"] .deepskyblue-border-bottom{
+      border-bottom: 1px solid deepskyblue !important;
+   }
+   [data-default-color="deepskyblue"] .deepskyblue-bg-color-over{
+     background-color: rgba(0, 191, 255, .8) !important;
+    
+  }
+  
+  [data-default-color="deepskyblue"] .deepskyblue-bg-color{
+      background-color: deepskyblue !important;
+   }
+   
+  
+   [data-default-color="deepskyblue"] .deepskyblue-bg-stork{
+    stroke: deepskyblue !important;
+ }
+  /*end deepskyblue*/ 
+   /*strat orangered*/ 
+ [data-default-color="orangered"] .orangered{
+     color: orangered !important;
+  }
+  [data-default-color="orangered"] .orangered-border{
+      border: 1px solid orangered !important;
+   }
+  [data-default-color="orangered"] .orangered-border-bottom{
+      border-bottom: 1px solid orangered !important;
+   }
+   [data-default-color="orangered"] .orangered-bg-color-over{
+     background-color: rgba(255, 69, 0, 0.8)!important;
+  }
+  
+  [data-default-color="orangered"] .orangered-bg-color{
+      background-color: orangered !important;
+   }
+  [data-default-color="orangered"] .orangered-bg-stork{
+      stroke: orangered !important;
+   }
+  /*end orangered*/ 
+ /*strat yellow*/ 
+ [data-default-color="yellow"] .yellow{
+     color: yellow !important;
+     text-shadow: 1px 0px 5px rgba(0,0,0,0.1);
+
+  }
+  [data-default-color="yellow"] .yellow-border{
+      border: 1px solid yellow !important;
+   }
+   [data-default-color="yellow"] .yellow-bg-color-over{
+     background-color: rgba(255, 255, 0, 0.95)!important;
+     color: #000 !important;
+  }
+  [data-default-color="yellow"] .yellow-border-bottom{
+      border-bottom: 1px solid yellow !important;
+   }
+  
+  [data-default-color="yellow"] .yellow-bg-color{
+      background-color: yellow !important;
+      color: #000 !important;
+   }
+  [data-default-color="yellow"] .yellow-bg-stork{
+      stroke: yellow !important;
+   }
+  /*end yellow*/ 
+ 
+  /*strat springgreen*/ 
+ [data-default-color="springgreen"] .springgreen{
+     color: springgreen !important;
+  }
+  [data-default-color="springgreen"] .springgreen-border{
+      border: 1px solid springgreen !important;
+   }
+   [data-default-color="springgreen"] .springgreen-bg-color-over{
+     background-color: rgba(0, 255, 127, 0.8) !important;
+     color: #000 !important;
+  }
+  [data-default-color="springgreen"] .springgreen-border-bottom{
+      border-bottom: 1px solid springgreen!important;
+   }
+  
+  [data-default-color="springgreen"] .springgreen-bg-color{
+      background-color: springgreen !important;
+      color: #000 !important;
+   }
+  [data-default-color="springgreen"] .springgreen-bg-stork{
+      stroke: springgreen !important;
+   }
+  /*end springgreen*/ 
+ 
+ /*end them colors*/
